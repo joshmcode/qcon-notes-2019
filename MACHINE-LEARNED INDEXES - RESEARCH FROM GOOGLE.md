@@ -53,3 +53,7 @@ Problem: False Negatives
 
 - Use a bloom filter to take the false negatives for all misclassified records. Don't store the ones the model got right. 
 
+### Future 
+* Potential: Multidimensional Indexes
+* TPUs/GPUs
+
