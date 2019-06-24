@@ -58,6 +58,22 @@ my_project/
 
 Run example:
 
-```bash
+```shell
 mlflow run git://<my_project>
 ```
+
+## MLFlow Models Motivations
+Simplify the n * n mappings between products. 
+
+MLFlow is a directory structure. 
+
+> Can run on prem
+
+## Some other thoughts
+A simple goal: help my team solve their data problems. Make this one of my goals starting even this year. 
+
+Another goal: ML for factory opimizations. Quote tools. 
+
+What if I spoke to Gene Baker and got access to their data? 
+
+Talk to Tameka about obtaining proprietary access to Intellectual Property I create. 
