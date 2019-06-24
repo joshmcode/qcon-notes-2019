@@ -34,3 +34,30 @@ Parameters, metics, source (code), version, artifacts, tags and notes
 ## Demo 
 
 ## How to get started
+1. Entity (metadata) store
+    * FileStore
+    * SQLStore
+    * REST Store
+
+2. Artifact Store
+    * S3, Azure, etc. for storing
+
+## Motivations
+MLResults are difficult to reproduce. 
+
+Can execute inside of a Docker container for reproducibility. 
+
+```yaml
+my_project/
+    - MLproject
+
+    - conda.yaml
+    - main.py
+    - model.py
+```
+
+Run example:
+
+```bash
+mlflow run git://<my_project>
+```
