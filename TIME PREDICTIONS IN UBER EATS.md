@@ -37,12 +37,4 @@ Eater & Partners:
 Hyperparameter tuning
 https://www.nature.com/articles/nature14541
 
-### ML Model
-
-
-### Feedback Loop
-
-## Deep Dive in Time Predictions
-
-## Q&A
 
