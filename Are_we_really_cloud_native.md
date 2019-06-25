@@ -1,4 +1,5 @@
 # Are We Really Cloud Native
+Bert Ertman
 
 ## What Is Cloud Native
 "Blah, bla, bla... Kubernetes"
@@ -49,3 +50,39 @@ However, it can also cause problems.
 
 ## Cloud-Native is a DevOps journey
 * Cloud-native is the architecture for assembling cloud-based components in a way that is optimized for the cloud environment. 
+
+* Its not about servers but services
+
+## Legos
+* The blocks: PaaS, Serverless, and Iaas. 
+
+* Start assembling from the top down. For example, start with serverless. If something doesn't fit, go to the PaaS. Then if that is missing something go to IaaS. 
+
+## So what is cloud-native? 
+* Technologies are not cloud-native. Its the way you use them. 
+
+
+## Getting the best from the Cloud
+
+* Focus on strategic value, vs. managing infrastructure and middleware. 
+
+* Ability to easily experiment with new technology or new business ideas? 
+
+* Potential for economic disruption
+
+It could easily be standing up our own Kubernetes... and it could also be about just using the Cloud. 
+
+Friends don't let friends build their own Kubernetes platform. 
+
+## Is Java still a natural fit?
+A better question is "are Java programmers a good fit for the cloud?" Hopefully its not the only skill we have. 
+
+## Change of Pace
+We have to learn more faster. 
+
+## Cloud Native Culture Killers
+* Business does not trust IT, so no true BizDevSecOps
+* IT is a cost center
+* We only do cloud because it saves us money (we think)
+
+## Cloud-Native Culture FTW
