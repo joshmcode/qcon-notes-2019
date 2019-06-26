@@ -41,3 +41,12 @@ They tried to split up the Lambdas into different API gateways. This somewhat lo
 ## Use Serverless as building blocks for Microservices
 
 However, API Gateways are actually expensive on AWS. 
+
+AWS has a lot of internal strife between teams. 
+
+## The Future
+Is this the future? Who cares. 
+
+He thinks serverless is the future, but who cares. 
+
+
