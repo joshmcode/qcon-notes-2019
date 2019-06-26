@@ -89,3 +89,27 @@ Idea: Send our alerts to Mattermost with tags
 - Ensure a good feedback loop either in person or in tooling
 - Educate others during onboarding and workshops
 - Template team dashboards and make other dashboards accessible to all
+
+### They have reached 70 teams
+* They want to reach all 340 teams
+
+### Service Mesh
+* Service mesh helps them get new/updated functionality to applications fast. 
+* Less work for engineers
+* Introduce A/B testing and canary services
+
+### What is next
+* Scale up number of teams using their stack. 
+* Expanding their role as reliability advocates
+
+### Takeaways
+* Hire SREs from product engineering domain
+* Never compromise on mindset in SREs
+* Pilot first if SRE model doesn't exist within org yet
+* Get senior management support
+* (Technical) Focus on scalability
+* (Technical) Don't be afraid to redesign
+
+
+## My Thoughts
+Our future is not entirely in our own hands, but there are things we can control. Huge amounts of our existence are in the hands of others and external factors. But, I can still do well. 
