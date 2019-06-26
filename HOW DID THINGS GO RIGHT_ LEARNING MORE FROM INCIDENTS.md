@@ -48,4 +48,32 @@ When everything goes right, pay attention.
 
 > What if the real success were the incidents we made along the way. 
 
+> Availability is perceived
+
+Success is often invisible. My note: this is analogous to life when we tend to ignore our own successes. 
+
+## How to look at incidents
+- Contributors & Enablers
+- Mitigators
+- Risks
+- Difficulties in Handling (Islands of Knowleadge)
+- Follow-up items (this is not really "to-dos" but more actionable outcomes)
+- Artifacts (todo: good book referenced here)
+- Timeline
+- References
+- Open questions 
+
+## If this feels like a time constraint
+Think of it as an unplanned time investment. 
+
+## What about when nothing is happening? 
+> How hard are people working just to keep the system healthy. 
+
+- How do you think about feeding this back up the chain? 
+- Or do you NOT because everything looks good. 
+
+### How do we solve this problem? 
+You have to talk to people. 
+
+If you say "root cause" you are a cop. 
 
